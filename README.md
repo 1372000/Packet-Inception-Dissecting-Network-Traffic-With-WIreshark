@@ -1,4 +1,4 @@
-# Packet-Inception-Dissecting-Network-Traffic-With-WIreshark
+# Packet-Inception-Dissecting-Network-Traffic-With-Wireshark
 The purpose of this project is to provide experience with dissecting traffic in Wireshark. We will have the chance to pull objects out of previously captured network traffic along with pulling data from live traffic.
 
 # Apply Filter To include only (80/TCP) Requests.
